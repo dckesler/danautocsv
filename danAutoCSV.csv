@@ -1,0 +1,5 @@
+UserName,FirstName,LastName,Manager,Location,BusinessTitle,Roles,JobTitle,Email,password
+danCSV3,danCSV3,Nayler,,USA,Lead Material Handler,Account Admin|Admin|Author,Lead Material Handler,dcanfield+danCSV3@instructure.com,password
+danCSV7,danCSV7,Garcia,,USA,Product Specialist,Account Admin,Product Specialist,dcanfield+danCSV7@instructure.com,password
+danCSV9,danCSV9,Smith,,USA,Product Specialist,Account Admin,Product Specialist,dcanfield+danCSV9@instructure.com,password
+danCSV10,danCSV10,Gonzales,,USA,Sr. Manager Asia Pacific Delivery,Account Admin|Admin|Author,Senior Mgr Territory Delivery,dcanfield+edge_danCSV10@instructure.com,password
